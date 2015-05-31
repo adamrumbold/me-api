@@ -31,6 +31,6 @@
         }
     },
     "settings": {
-        "host": "http://api.adamrumbold.com:80"
+        "host": "api.adamrumbold.com:80"
     }
 }

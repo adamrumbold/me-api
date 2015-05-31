@@ -1,22 +1,23 @@
 {
     "name": "Adam Rumbold",
     
-     "bio": "Solution Architect at Australian Bureau of Statistics",
+     "bio": "Thirtysomething Australian living in Canberra.  Into homebrew (beer), coffee (roasting), IT and photography geekery and trail running",
     
     
     "contact": {
+            "strava": "https://www.strava.com/athletes/1323249",
             "facebook": "https://www.facebook.com/adam.rumbold/",
             "linkedin": "https://www.linkedin.com/in/",
             "github": "https://github.com/adamrumbold",
             "twitter": "https://www.twitter.com/adamrumbold",
-            "resume": "http://danielfang.org/resume.pdf",
-            "email": "adam.rumbold@gmail.com"
+            "movescount": "http://www.movescount.com/members/arumbold",
+            "email": "adam.rumbold at gmail.com"
         },
         "work": [
             {
                 "company": "Australian Bureau of Statistics",
                 "date": "2005 - current",
-                "description": "Soluton Architect working on the Census 2016"
+                "description": "Soluton Architect - Census 2016"
             }
-        ]
+        ]   
 }

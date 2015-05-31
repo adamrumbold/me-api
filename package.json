@@ -1,13 +1,13 @@
 {
   "name": "me-api-server",
   "version": "1.0.3",
-  "main": "lib/app.js",
+  "main": "api/lib/app.js",
   "bin": {
-    "me-api-server": "./bin/www",
-    "me-api-init": "./bin/init"
+    "me-api-server": "./api/bin/www",
+    "me-api-init": "./api/bin/init"
   },
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./api/bin/www"
   },
   "dependencies": {
     "coinbase": "^1.0.2",

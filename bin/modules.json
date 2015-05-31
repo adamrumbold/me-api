@@ -31,6 +31,6 @@
         }
     },
     "settings": {
-        "host": "localhost:3000"
+        "host": "http://me-w0mbatable.rhcloud.com:80"
     }
 }

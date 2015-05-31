@@ -3,11 +3,11 @@
   "version": "1.0.3",
   "main": "api/lib/app.js",
   "bin": {
-    "me-api-server": "./api/bin/www",
-    "me-api-init": "./api/bin/init"
+    "me-api-server": "./bin/www",
+    "me-api-init": "./bin/init"
   },
   "scripts": {
-    "start": "node ./api/bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "coinbase": "^1.0.2",

@@ -1,0 +1,36 @@
+{
+    "modules": {
+        "twitter": {
+            "path": "/twitter",
+            "data": {
+                "me": "adamrumbold",
+		"secrets": {   
+                    "consumer_key": "Uf3VTHC653RE4yVHB1n6pnXrb",
+		    "consumer_secret": "TQRGv4uAIjBXmF7eXpdbmMZ48WvrBHMbGG9uFCimUPjdh60laq",
+                    "access_token": "14711939-wT4azzWlBYpzleshCXViOkdnCDnfmd2mvflKQkAV1",
+                    "access_token_secret": "wwSoFCsV7zhgHClg8pDrZtzcWnmt0o6QNv46rDgUI6bNN"
+		}
+            }
+        },
+        "github": {
+            "path": "/code",
+            "data": {
+                "me": "adamrumbold"
+            }
+        },
+        "instagram": {
+            "path": "/instagram",
+            "data": {
+                "me": "arumbold",
+                "secrets": {
+                    "access_token": "",
+                    "client_secret": "68f114fcaff9413ba2bc9cbf4da51c38",
+                    "client_id": "dbd9a3db42d6464898af60b5c4409070"
+                }
+            }
+        }
+    },
+    "settings": {
+        "host": "localhost:3000"
+    }
+}

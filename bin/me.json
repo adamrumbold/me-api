@@ -1,3 +1,22 @@
 {
-    "name": "Adam Rumbold"
+    "name": "Adam Rumbold",
+    
+     "bio": "Solution Architect at Australian Bureau of Statistics",
+    
+    
+    "contact": {
+            "facebook": "https://www.facebook.com/adam.rumbold/",
+            "linkedin": "https://www.linkedin.com/in/",
+            "github": "https://github.com/adamrumbold",
+            "twitter": "https://www.twitter.com/adamrumbold",
+            "resume": "http://danielfang.org/resume.pdf",
+            "email": "adam.rumbold@gmail.com"
+        },
+        "work": [
+            {
+                "company": "Australian Bureau of Statistics",
+                "date": "2005 - current",
+                "description": "Soluton Architect working on the Census 2016"
+            }
+        ]
 }

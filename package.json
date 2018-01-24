@@ -7,7 +7,10 @@
     "me-api-init": "./bin/init"
   },
   "scripts": {
-    "start": "node ./bin/local.js"
+    "start": "node ./bin/local.js",
+    "restart": "pm2 startOrRestart ecosystem.config.js",
+    "deploy": "pm2 deploy ecosystem.config.js production",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "coinbase": "^1.0.2",
@@ -25,5 +28,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/danfang/api-me.git"
+  },
+  "devDependencies": {
+    "pm2": "^2.9.3"
   }
 }
